@@ -1,4 +1,5 @@
 {
 	"name": "comp26020-lab",
 	"image": "olivierpierre/comp26020-lab",
+	"workspaceFolder": "/some/path",
 }
